@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Victor 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação | Apaixonado por tecnologia e inovação
+  💻 Desenvolvedor em formação | Estudante de Ciência da Computação na UFRPE | Apaixonado por tecnologia
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 Sobre mim:
-Sou um desenvolvedor em formação, sempre em busca de novos conhecimentos e desafios. Atualmente estou focado em me aprofundar nas seguintes tecnologias:
+Sou um desenvolvedor em formação, sempre em busca de novos conhecimentos e desafios, cursando Ciência da Computação na Universidade Federal Rural de Pernambuco (UFRPE). Atualmente estou focado em me aprofundar nas seguintes tecnologias:
 
 - ⚙️ Java
 - 🌐 HTML, CSS, JavaScript
