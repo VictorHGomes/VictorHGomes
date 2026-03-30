@@ -18,7 +18,7 @@
 Sou um desenvolvedor em formação, sempre em busca de novos conhecimentos e desafios, cursando Ciência da Computação na Universidade Federal Rural de Pernambuco (UFRPE). Atualmente estou focado em me aprofundar nas seguintes tecnologias:
 
 - ⚙️ Java
-- 🌐 HTML, CSS, JavaScript
+- 🌐 JavaScript, Typescript
 - 🛢️ MySQL, MongoDB
 - ☁️ AWS, Docker
 - ⚛️ Node.js, React.js 
