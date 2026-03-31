@@ -10,7 +10,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](contavictorcouto@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-couto-07a467305/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victorhgomes_/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorHGomes)
 
 ---
 
@@ -18,7 +17,7 @@
 - 🌐 JavaScript, Typescript
 - 🛢️ MySQL, MongoDB
 - ☁️ AWS, Docker
-- ⚛️ Node.js, React.js 
+- ⚛️ Node.js, React.js, SpringBoot 
 
 ---
 
@@ -39,7 +38,16 @@
 ---
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHGomes&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHGomes&layout=compact&theme=tokyonight&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHGomes&theme=tokyonight)
+
+</div>
 <!--
 **VictorHGomes/VictorHGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
