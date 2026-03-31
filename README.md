@@ -38,9 +38,10 @@
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://readme-stats-kappa-one.vercel.app/api?username=VictorHGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/VictorHGomes)
 
-[![Top Langs](https://readme-stats-kappa-one.vercel.app/api/top-langs/?username=VictorHGomes&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/VictorHGomes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Java+%7C+Python;CS+%40+UFRPE+%7C+Recife%2C+PE)](https://git.io/typing-svg)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=VictorHGomes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <!--
 **VictorHGomes/VictorHGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
