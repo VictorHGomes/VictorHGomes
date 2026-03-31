@@ -37,15 +37,12 @@
 
 
 ---
-
 ### 📊 GitHub Stats:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorHGomes&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHGomes&layout=compact&theme=tokyonight"/>
 </div>
-
-
 <!--
 **VictorHGomes/VictorHGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
