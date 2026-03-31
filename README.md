@@ -36,18 +36,11 @@
 
 
 ---
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
-<div align="center">
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/VictorHGomes)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VictorHGomes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHGomes&layout=compact&theme=tokyonight&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=VictorHGomes&theme=tokyonight)
-
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorHGomes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/VictorHGomes)
 <!--
 **VictorHGomes/VictorHGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
