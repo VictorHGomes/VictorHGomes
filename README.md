@@ -1,7 +1,7 @@
 <h1 align="center">Olá, me chamo Victor 👋</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação | Estudante de Ciência da Computação na UFRPE | Apaixonado por tecnologia
+  💻 Science Computer at UFRPE 
 </p>
 
 ---
@@ -13,9 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorHGomes)
 
 ---
-
-### 👨‍💻 Sobre mim:
-Sou um desenvolvedor em formação, sempre em busca de novos conhecimentos e desafios, cursando Ciência da Computação na Universidade Federal Rural de Pernambuco (UFRPE). Atualmente estou focado em me aprofundar nas seguintes tecnologias:
 
 - ⚙️ Java
 - 🌐 JavaScript, Typescript
